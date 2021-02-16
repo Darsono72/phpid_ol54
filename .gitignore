@@ -18,4 +18,4 @@ application/config/database.php
 /vendor/
 
 sftp-config.json
-application/config/database.php
+/application/config/database.php
